@@ -15,14 +15,15 @@ Dataset Description:<br/>
 - The Rating Dataset contains the number of votes the movie has received and weighted average of all the individual user ratings.</br> 
 - The Akas Dataset contains All the region the movies were released and the language of the region. </br>
 - TMDB Dataset contains release date, revenue, budget,and runtime of the movie.</br>
-### Methods:
-- Extract data
-- Clean/Transform data 
-- Load Data to database
-- Simply exploratory  
-- Visual exploratory 
-- Find if there is a Significant difference between groups
-
+### Methods:</br>
+<ul>
+  <li> Extract data</li>
+  <li>Clean/Transform data </li>
+  <li>Load Data to database</li>
+  <li>Simply exploratory  </li>
+  <li>Visual exploratory </li>
+  <li> Find if there is a Significant difference between groups</li>
+</ul>
 ## Results
 ### Trends 
 ![class_odor](img/certification_graph1.png)</br>
