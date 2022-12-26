@@ -25,10 +25,10 @@ TMDB Dataset contains release date, revenue, budget,and runtime of the movie.
 
 ## Results
 ### Trends 
-![class_odor](img/certification_graph.png)
+![class_odor](img/certification_graph1.png)
 Bad and spicy smelling mushrooms tend to be poisonous.
 
-![color](img/Revenue.png)
+![color](img/Revenue1.png)
 Buff, yellow, pink, and red have a higher chance of being Poisonous.<br/>
 
 ## Recommendation.
